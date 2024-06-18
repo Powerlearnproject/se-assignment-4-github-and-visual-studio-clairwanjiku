@@ -93,3 +93,38 @@ When Visual Studio connects with GitHub, it makes teamwork smoother. GitHub is l
 
 
 ## QUESTION 8
+Clone Repository: Open Visual Studio, clone your GitHub repository using Team Explorer.
+
+Open Project: Open your project in Visual Studio to start coding.
+
+Commit and Sync: Make changes, commit them locally, then sync with GitHub to update the remote repository.
+
+Enhanced Development Workflow:
+
+Collaboration: Simplifies teamwork by allowing easy access and modification of project files.
+Version Control: Tracks changes, manages branches, and reverts to previous versions.
+Issue Tracking: Links commits to GitHub issues for better project management.
+Code Reviews: Facilitates peer review through GitHub's pull requests for improving code quality.
+
+
+
+## QUESTION 9
+Visual Studio provides tools like breakpoints, watch windows, and diagnostic tools to help developers find and fix code issues by inspecting variables, monitoring program flow, and optimizing performance.
+
+Collaborative Development using GitHub and Visual Studio:
+
+Visual Studio integrates with GitHub for team collaboration:
+
+Version Control: Clone repositories, commit changes, and sync with GitHub for managing code versions.
+Branching and Pull Requests: Create branches, use pull requests for reviews before merging changes.
+Issue Tracking: Manage tasks and track bugs using GitHub's issue tracker.
+Code Reviews: Review code, suggest improvements, and ensure quality before merging changes.
+
+
+
+## QUESTION 10
+GitHub and Visual Studio help teams work together on software:
+
+Sharing Code: GitHub stores the code, and Visual Studio is where developers write and edit it.
+Teamwork: Developers use GitHub to suggest changes and review each other's work.
+Example: A team building a website uses GitHub to store their code. They use Visual Studio to write the code and GitHub to see what everyone is doing and share their ideas.
