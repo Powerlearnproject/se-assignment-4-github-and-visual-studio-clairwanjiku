@@ -49,3 +49,35 @@ GitHub Actions automates workflows like building, testing, and deploying code di
 
 
 ## QUESTION 6
+GitHub Actions automate tasks like testing and deploying code directly from GitHub. You set up workflows using YAML files. Here's a simple example:
+
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm test
+
+      - name: Build and deploy
+        run: npm run build
+run: npm run deploy
+
