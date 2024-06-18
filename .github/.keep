@@ -1,4 +1,18 @@
 ##  QUESTION 1 
 GitHub is a platform for hosting and collaborating on Git repositories. Its key features include version control, branching, pull requests for code review and merging changes, issue tracking, and project documentation. These tools facilitate efficient collaboration among developers, enabling them to work on code together, manage tasks, and maintain project quality.
 
+
 ## QUESTION 2
+A GitHub repository is a storage space where project files and their history are stored using Git version control. To create a new repository:
+
+Creating a Repository: On GitHub, click on "New" and fill in the repository details (name, description, public/private status).
+
+Essential Elements:
+
+README: Markdown file explaining the project, its purpose, and how to use it.
+License: Specifies how others can use the code.
+.gitignore: Lists files that Git should ignore (e.g., temporary files, build outputs).
+Version Control with Git: Git tracks changes to files, allowing multiple developers to collaborate by managing branches, merging changes, and reverting to previous versions.
+
+
+## QUESTION 3
