@@ -81,3 +81,15 @@ jobs:
         run: npm run build
 run: npm run deploy
 
+
+
+## QUESTION 7
+GitHub Pages is a service that allows you to host static websites directly from your GitHub repository. 
+Visual Studio is a computer program that helps people build other computer programs. It has tools for writing code, fixing mistakes, and managing projects. It supports many programming languages and makes coding easier with features like finding errors in your code as you write.
+
+Visual Studio Code is a simpler program for writing code. It's lightweight and works on different types of computers. It's good for quick coding tasks and is easy to customize with different themes and add-ons.
+
+When Visual Studio connects with GitHub, it makes teamwork smoother. GitHub is like a big bulletin board where people can share their code and work together on projects. Visual Studio lets you easily use GitHub to share your work, track changes, and collaborate with others on coding projects.
+
+
+## QUESTION 8
