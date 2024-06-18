@@ -17,3 +17,21 @@ Version Control with Git: Git tracks changes to files, allowing multiple develop
 
 ## QUESTION 3
 GitHub enhances Git's version control by providing a platform for hosting repositories with features like branching, merging, and pull requests. These tools enable parallel development, seamless collaboration, and effective code review, ensuring efficient project management and quality control.
+
+
+## QUESTION 4
+A pull request in GitHub lets you propose changes to a repository. It facilitates collaboration by allowing others to review your code before merging it. Here’s how:
+
+Creating a Pull Request:
+
+Make changes in a new branch.
+Push the branch to GitHub.
+Open a pull request to merge your changes into the main branch.
+Reviewing a Pull Request:
+
+Team members review the code, leave comments, and suggest improvements.
+Discussions and revisions happen until changes are approved.
+GitHub Actions automates workflows like building, testing, and deploying code directly from GitHub, triggered by events like commits or pull requests. This improves productivity and ensures consistent development practices.
+
+
+## QUESTION 4
