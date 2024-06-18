@@ -20,6 +20,20 @@ GitHub enhances Git's version control by providing a platform for hosting reposi
 
 
 ## QUESTION 4
+
+
+Branches in GitHub are separate versions of a repository's code, allowing developers to work on features or fixes without affecting the main codebase (master). They enable parallel development and collaboration.
+
+Process:
+
+Create a Branch: From GitHub, create a new branch (e.g., feature-branch) from master.
+Make Changes: Edit files locally, commit changes, and push the branch to GitHub.
+Pull Request: Request a review to merge feature-branch into master.
+
+
+
+
+## QUESTION 5
 A pull request in GitHub lets you propose changes to a repository. It facilitates collaboration by allowing others to review your code before merging it. Here’s how:
 
 Creating a Pull Request:
@@ -34,4 +48,4 @@ Discussions and revisions happen until changes are approved.
 GitHub Actions automates workflows like building, testing, and deploying code directly from GitHub, triggered by events like commits or pull requests. This improves productivity and ensures consistent development practices.
 
 
-## QUESTION 4
+## QUESTION 6
